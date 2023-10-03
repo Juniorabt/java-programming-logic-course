@@ -10,25 +10,25 @@ public class switchCase {
 
         switch (x) {
         case 1:
-            dia = "domingo";
+            dia = "sunday";
             break;
         case 2:
-            dia = "segunda";
+            dia = "monday";
             break;
         case 3:
-            dia = "terca";
+            dia = "tuesday";
             break;
         case 4:
-            dia = "quarta";
+            dia = "wednesday";
             break;
         case 5:
-            dia = "quinta";
+            dia = "thursday";
             break;
         case 6:
-            dia = "sexta";
+            dia = "friday";
             break;
         case 7:
-            dia = "sabado";
+            dia = "saturday";
             break;
         default:
             dia = "invalid";
