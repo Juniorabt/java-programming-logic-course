@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.RectangleEx01;
+import entities.ex01Rectangle;
 
 public class ex01 {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class ex01 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        RectangleEx01 rect = new RectangleEx01();
+        ex01Rectangle rect = new ex01Rectangle();
        
         System.out.println("Enter the rectangle Width and Height: ");
         rect.Width = sc.nextDouble();

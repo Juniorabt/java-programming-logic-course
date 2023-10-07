@@ -2,14 +2,14 @@ package application;
 
 import java.util.Locale;
 import java.util.Scanner;
-import entities.StudentEx03;
+import entities.ex03Student;
 
 public class ex03 {
     public static void main(String[] args) {
         
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        StudentEx03 student = new StudentEx03();
+        ex03Student student = new ex03Student();
 
         student.name = sc.nextLine();
         student.grade1 = sc.nextDouble();

@@ -1,6 +1,6 @@
 package entities;
 
-public class RectangleEx01 {
+public class ex01Rectangle {
     
    public double Width;
    public double Height;

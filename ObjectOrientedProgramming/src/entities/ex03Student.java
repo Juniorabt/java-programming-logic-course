@@ -1,6 +1,6 @@
 package entities;
 
-public class StudentEx03 {
+public class ex03Student {
     
     public String name;
     public double grade1;
