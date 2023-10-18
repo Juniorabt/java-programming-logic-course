@@ -3,6 +3,10 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
+/*Make a program to read an integer N and then a vector of N real numbers. Right away, show on
+ the screen the arithmetic mean of all elements with three decimal places. Then show all the
+ elements of the vector that are below the average, with one decimal place each. */
+
 public class ex07 {
     public static void main(String[] args) {
         

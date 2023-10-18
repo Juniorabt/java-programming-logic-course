@@ -2,6 +2,10 @@ package application;
 
 import java.util.Scanner;
 
+/*Make a program to read a set of people's names and their respective ages. The names must
+be stored in one vector, and ages in another vector. Then, show the name on the screen
+of the older person. */
+
 public class ex09 {
     public static void main(String[] args) {
         
