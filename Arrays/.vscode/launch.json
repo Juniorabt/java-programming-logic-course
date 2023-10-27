@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Program01",
+            "request": "launch",
+            "mainClass": "application.Program01",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "Program02",
+            "request": "launch",
+            "mainClass": "application.Program02",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "Program03",
+            "request": "launch",
+            "mainClass": "application.Program03",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "Program04",
+            "request": "launch",
+            "mainClass": "application.Program04",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "Program05",
+            "request": "launch",
+            "mainClass": "application.Program05",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "Program06",
+            "request": "launch",
+            "mainClass": "application.Program06",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex01",
+            "request": "launch",
+            "mainClass": "application.ex01",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex02",
+            "request": "launch",
+            "mainClass": "application.ex02",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex03",
+            "request": "launch",
+            "mainClass": "application.ex03",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex04",
+            "request": "launch",
+            "mainClass": "application.ex04",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex05",
+            "request": "launch",
+            "mainClass": "application.ex05",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex06",
+            "request": "launch",
+            "mainClass": "application.ex06",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex07",
+            "request": "launch",
+            "mainClass": "application.ex07",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex08",
+            "request": "launch",
+            "mainClass": "application.ex08",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex09",
+            "request": "launch",
+            "mainClass": "application.ex09",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex10",
+            "request": "launch",
+            "mainClass": "application.ex10",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex11",
+            "request": "launch",
+            "mainClass": "application.ex11",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex12",
+            "request": "launch",
+            "mainClass": "application.ex12",
+            "projectName": "Arrays_5f013f22"
+        }
+    ]
+}
