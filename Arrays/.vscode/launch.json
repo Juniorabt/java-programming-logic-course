@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "application.test",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
+            "name": "ex13",
+            "request": "launch",
+            "mainClass": "application.ex13",
+            "projectName": "Arrays_5f013f22"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
